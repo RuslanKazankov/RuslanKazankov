@@ -3,7 +3,7 @@
 I'm .Net Developer.
 
 ### Skills:
-C# | ASP .Net | Rest Api | gRPC | WPF???
+**C# | ASP .Net | Rest Api | gRPC | WPF???**
 <!--
 **RuslanKazankov/RuslanKazankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
