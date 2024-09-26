@@ -1,12 +1,11 @@
-## Hi there 👋
+## Hi there 👋. I'm .Net Developer.
 
-I'm .Net Developer.
-
-### Skills:
-**C# | ASP .Net | Rest Api | gRPC | WPF???**
+### :heavy_check_mark: My skills: 
+> **C# / ASP .Net / Rest Api / gRPC / WPF ???**
 
 ## This cat is literally me
 ![me](images/literallyMe.jpg)
+
 <!--
 **RuslanKazankov/RuslanKazankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
