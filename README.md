@@ -6,7 +6,7 @@ I'm .Net Developer.
 **C# | ASP .Net | Rest Api | gRPC | WPF???**
 
 ## This cat is literally me
-![me](gitme.jpg)
+![me](images/literallyMe.jpg)
 <!--
 **RuslanKazankov/RuslanKazankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
