@@ -1,7 +1,7 @@
 ## Hi there 👋. I'm .Net Developer.
 
 ### :heavy_check_mark: My skills: 
-> **C# / ASP .Net / Rest Api / gRPC / WPF / Postgres / Redis / Kafka**
+> **.Net / Web Api / ASP .NET MVC / MAUI / WPF / Postgres / Redis / Kafka**
 
 ## This cat is literally me
 ![me](images/literallyMe.jpg)
